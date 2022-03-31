@@ -5,5 +5,5 @@ import './style.css';
 
 const mainContainer = document.querySelector('#content');
 window.addEventListener('load', () => {
-    mainContainer.append(createNavbar(), createMenu());
+    mainContainer.append(createNavbar());
 });
