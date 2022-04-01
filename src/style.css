@@ -34,14 +34,17 @@ body {
 }
 
 /* home page */
-#home-page, #menu-page {
+#home-page,
+#menu-page,
+#contact-page {
     position: absolute;
     width: 80vw;
     right: 0;
 
 }
 
-#home-page {
+#home-page,
+#contact-page {
     height: 100vh;
 }
 
@@ -66,9 +69,30 @@ body {
 }
 
 .icon {
+    cursor: pointer;
     width: 12rem;
 }
 
 .shake {
     height: 10.2rem;
+}
+
+/* contact page */
+#contact-page {
+    /* background: rgb(214, 164, 64);
+    background: linear-gradient(90deg, rgba(214, 164, 64, 1) 0%, rgba(196, 30, 47, 0.9472163865546218) 100%); */
+    display: grid;
+    gap: 1rem;
+    align-items: center;
+    align-content: center;
+    font-size: 1.2rem;
+}
+
+.main-heading {
+    font-size: 2.5rem;
+}
+
+h3.sub-hading {
+    font-weight: normal;
+    color: #757575;
 }
