@@ -1,6 +1,6 @@
-import Food1 from '../food1.jpg';
-import Food2 from '../food2.jpg';
-import Food3 from '../food3.jpg';
+import Food1 from '../assets/images/food1.jpg';
+import Food2 from '../assets/images/food2.jpg';
+import Food3 from '../assets/images/food3.jpg';
 
 const foodArr = [Food1, Food2, Food3];
 

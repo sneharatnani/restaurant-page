@@ -1,4 +1,4 @@
-import Icon from '../logo.png';
+import Icon from '../assets/logo.png';
 
 function createNavbar() {
     const container = document.createElement('div');

@@ -1,12 +1,12 @@
-import Icon1 from '../cheeseburger.svg';
-import Icon2 from '../chocolate-donut.png';
-import Icon3 from '../cupcake.png';
-import Icon4 from '../hamburger.svg';
-import Icon5 from '../hot-dog2.png';
-import Icon6 from '../pizza.png';
-import Icon7 from '../sandwich.svg';
-import Icon8 from '../strawberry-shake.svg';
-import Icon9 from '../taco.svg';
+import Icon1 from '../assets/food-icons/cheeseburger.svg';
+import Icon2 from '../assets/food-icons/chocolate-donut.png';
+import Icon3 from '../assets/food-icons/cupcake.png';
+import Icon4 from '../assets/food-icons/hamburger.svg';
+import Icon5 from '../assets/food-icons/hot-dog2.png';
+import Icon6 from '../assets/food-icons/pizza.png';
+import Icon7 from '../assets/food-icons/sandwich.svg';
+import Icon8 from '../assets/food-icons/strawberry-shake.svg';
+import Icon9 from '../assets/food-icons/taco.svg';
 
 function createMenu() {
     const container = document.createElement('div');

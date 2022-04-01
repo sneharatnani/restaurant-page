@@ -11,6 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "http://sneharatnani.github.io/restaurant-page",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "style-loader": "^3.3.1",
